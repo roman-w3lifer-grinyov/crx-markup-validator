@@ -5,17 +5,16 @@
 }
 
 body {
-  height: 225px;
-  width: 330px;
+  width: 350px;
   text-align: center;
 }
 
-h2 > a {
+h2 a {
   color: #004d99;
   text-decoration: none;
 }
 
-h2 > a:hover {
+h2 a:hover {
   text-decoration: underline;
 }
 
@@ -26,6 +25,30 @@ label {
 .option {
   cursor: pointer;
   vertical-align: middle;
+}
+
+details {
+  margin-top: 11px;
+}
+
+summary {
+  color: #004d99;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 13px;
+}
+
+summary:hover {
+  color: initial;
+}
+
+details textarea {
+  display: block;
+  height: 100px;
+  width: 100%;
+  margin-top: 13px;
+  outline: 0;
+  resize: vertical;
 }
 
 button {
