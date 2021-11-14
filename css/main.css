@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  height: 225px;
+  width: 330px;
+  text-align: center;
+}
+
+h2 > a {
+  color: #004d99;
+  text-decoration: none;
+}
+
+h2 > a:hover {
+  text-decoration: underline;
+}
+
+label {
+  cursor: pointer;
+}
+
+.option {
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+button {
+  cursor: pointer;
+  display: block;
+  margin: 15px auto 20px;
+}
