@@ -1,4 +1,4 @@
-# [Markup Validator](https://chrome.google.com/webstore/detail/)
+# [Markup Validator](https://chrome.google.com/webstore/detail/fkkaidikdiekajbmmpiggofmjcgajegl)
 
 - [Installation for developers (for Linux users)](#installation-for-developers-for-linux-users)
 - [Sources](#sources)
