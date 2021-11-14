@@ -35,7 +35,7 @@ window.addEventListener('DOMContentLoaded', () => {
       event.preventDefault();
       let url = event.target.parentElement.querySelector('h2 a').getAttribute('href');
       let GETParams = '';
-      options.forEach(option => {
+      event.target.parentElement.querySelectorAll('.option').forEach(option => {
         if (option.checked) {
           GETParams += '&' + option.name;
         }
