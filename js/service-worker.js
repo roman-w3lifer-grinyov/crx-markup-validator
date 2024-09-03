@@ -1,8 +1,7 @@
-;'use strict';
 
 /* global chrome */
 
-chrome.runtime.onInstalled.addListener(() => {
+chrome.runtime.onInstalled.addListener(_ => {
   chrome.storage.sync.set({
     options: {
       'validator-w3-org_show-image-report': true,
@@ -17,5 +16,5 @@ chrome.runtime.onInstalled.addListener(() => {
       'validator-w3-org_text': '',
       'validator-nu_text': '',
     },
-  });
-});
+  })
+})

@@ -1,13 +1,13 @@
-# [Markup Validator](https://chrome.google.com/webstore/detail/fkkaidikdiekajbmmpiggofmjcgajegl)
+# [Markup Validator](https://chromewebstore.google.com/detail/fkkaidikdiekajbmmpiggofmjcgajegl)
 
-- [Chrome Web Store](https://chrome.google.com/webstore/detail/fkkaidikdiekajbmmpiggofmjcgajegl)
+- [Chrome Web Store](https://chromewebstore.google.com/detail/fkkaidikdiekajbmmpiggofmjcgajegl)
 - [Installation for developers (for Linux users)](#installation-for-developers-for-linux-users)
 - [Sources](#sources)
     - [Icons](#icons)
 
 ---
 
-![Example](img/screenshots/1280x800/example.png)
+![Markup Validator - Example](img/screenshots/1280x800/example.png)
 
 ---
 
@@ -24,4 +24,4 @@
 
 ### Icons
 
-- [Checked](https://flaticon.com/free-icon/checked_130878)
+- [Checked](https://www.flaticon.com/free-icon/checked_130878)
